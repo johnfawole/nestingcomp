@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# About This Project
+
+This project displays how to nest a component in React. I learned it from the React documentation.
+\
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
